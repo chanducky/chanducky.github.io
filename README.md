@@ -1,2 +1,1 @@
-# test
-Test Repo for website
+This repository portfolio of my own Education, Work history and skills
